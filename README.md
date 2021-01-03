@@ -1,3 +1,2 @@
 # NLP
-All about NLP
-Compiling all exercises I did as part of NLP certification offered by Udemy
+Compiling all hands-on work as I did as part of NLP certification offered by Udemy
