@@ -1,2 +1,2 @@
 # NLP
-Compiling all hands-on work as I did as part of NLP certification offered by Udemy
+Compiling all hands-on work I did as part of NLP certification offered by Udemy
